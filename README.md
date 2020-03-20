@@ -1,4 +1,4 @@
-# Handwritten-digit-recognition
+# Handwritten Digit Recognition using Python:
 Implementation of a handwritten digit recognition app using the MNIST dataset. 
 ## GUI to predict digits:
 ![](GUI.png)
